@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and profiling output
+*.log
+*.jfr
+profiling/jfr-recordings/
+profiling/gc-logs/
+profiling/flamegraphs/
+profiling/async-profiler/
+
+# Generated data (large files)
+datasets/*.csv
+
+# Build output
+*.jar
+!benchmarks.jar
+
+# Results (personal measurements)
+results/
