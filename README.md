@@ -1,5 +1,7 @@
 # OrderFlow Performance Lab
 
+**Disclaimer:** This repository contains code, documentation, and/or other content that was generated, processed, or assisted by an artificial intelligence (AI) model (Claude Opus 4.5).
+
 A hands-on Java performance tuning learning project. Learn to identify and fix performance issues by measuring, hypothesizing, and iterating.
 
 ## 🎯 Learning Objectives
